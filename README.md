@@ -1,7 +1,7 @@
 # Music-Player
 Music player using HTML, CSS and Javascript
 
-Visit this project at : 
+Visit this project at : https://sanketdhengre.github.io/Music-Player/
 
 ![image](https://user-images.githubusercontent.com/83276393/222927318-3570ccbb-9ccb-4748-9ece-0e90631724ba.png)
 
